@@ -26,5 +26,5 @@ Sumas de lanzamientos de dos dados (cantidad de veces de la suma de los dos dado
         * (Puede imprimirlo como prefieras, pero que se vea la clave y el valor.)
         */
 
+       [![ImagenLanzamientoDados.png](https://github.com/Huligan111/LanzarDados/blob/main/ImagenLanzamientoDados.png)
        
-       ![](https://github.com/Huligan111/LanzarDados/blob/main/ImagenLanzamientoDados.png)
